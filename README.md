@@ -1,4 +1,4 @@
-# Hey, I'm Rashid 👋
+# Hey, I'm Rashid 
 
 I've been building software since 2017. Started with mobile apps, gradually took on the full stack as time went on.
 
